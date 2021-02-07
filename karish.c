@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello!");
+    printf("Epic Session Today! ^_^");
 }

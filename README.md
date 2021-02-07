@@ -13,4 +13,4 @@ Follow the git workflow specified, and create a pull request to this repository.
     ```
 
 * Using the workflow we told you about, make a pull request to the main repository.
-* Wait your code to be merged.
+* Wait for your code to be merged.

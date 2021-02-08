@@ -22,7 +22,7 @@ class maths
         
         for(int s=0;s<3;s++)
         {
-            System.out.println("Enter the highest power of variable in equation.");
+            System.out.println("Enter the highest power of the variable in equation.");
                t=sc.nextInt();
                t+=1;
                a=new float [t];

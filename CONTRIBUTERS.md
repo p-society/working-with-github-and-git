@@ -7,3 +7,4 @@ Prince Kumar, B320033 - pattern.c
 Saurav Pati, B120057 - mycode.c
 Piyush Mishra, B120041 - fctrl.cpp
 Raj Aryan, B120048 - Mycode.cpp
+Avash Mitra,B120013- dijkstra.cpp

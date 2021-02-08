@@ -12,7 +12,7 @@ class maths
 
         if(c==1)//checks if input id for algebraic 
         {
-        System.out.println("Enter the point about which it is to be found.");//point at which linear dependence is to be checked
+        System.out.println("Enter the point about which it's to be found.");//point at which linear dependence is to be checked
         int x=sc.nextInt();
 
         int sum=0,t=0;

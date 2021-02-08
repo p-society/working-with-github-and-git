@@ -1,4 +1,5 @@
 Swapnil Sahu, B118061 - brainfuck_helloworld.bf
+Karish Chaudhary, B120028 - karish.c
 Shubhasai Mohapatra, B220053 - program.cpp
 Pranav Patel, B120044 - happiestDay.java
 Biswajit Sahoo, B420017 - dynMem.c

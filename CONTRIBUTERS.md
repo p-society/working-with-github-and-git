@@ -10,3 +10,4 @@ Piyush Mishra, B120041 - fctrl.cpp
 Raj Aryan, B120048 - Mycode.cpp
 Simran Pattnaik,B420049-maths.java
 Avash Mitra,B120013- dijkstra.cpp
+Akash Parida, B420004 - Gratitude.c

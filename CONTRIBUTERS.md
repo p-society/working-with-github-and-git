@@ -11,3 +11,4 @@ Raj Aryan, B120048 - Mycode.cpp
 Simran Pattnaik,B420049-maths.java
 Avash Mitra,B120013- dijkstra.cpp
 Sanjyoti Das, B120054 - prog1.c,poem.c
+Kunal Agrawal, B20027 - triangle.c
